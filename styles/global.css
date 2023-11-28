@@ -2,7 +2,7 @@
   /* Color Variables */
 
   --color-nemo: #ff4a11;
-  --color-granite: #252629;
+  --color-granite: #252926;
   --color-water-10: #f3f5f9;
   --color-foam: #ffffff;
 }
@@ -17,7 +17,7 @@ body {
   margin: 0;
   font-family: system-ui;
 
-  background-color: var(--color-foam);
+  background-color: slategray;
   padding: 20px;
 }
 
